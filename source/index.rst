@@ -1,7 +1,9 @@
 Sample Sphinx Project
 =====================
 
-Fill in  this text with your own intro text
+This is the home page to my Sphinx Project which will later be a project focused
+on ReactJS and its functionality and uses, as well as why people use it and why it
+is so popular.
 
 .. toctree::
    :maxdepth: 1
