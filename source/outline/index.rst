@@ -57,3 +57,6 @@ Overview of the unique functionality that the React library provides to a websit
 
 .. [#f6] Saks, E. (2019). JavaScript frameworks: Angular vs React vs Vue
     (pp. 31-38, Rep.). Helsinki, Finland: University of Applied Sciences.
+
+.. [#f7] Hámori, F. (2020, February 10). The history of React.js on a TIMELINE:
+    @RISINGSTACK. Retrieved March 17, 2021, from https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/

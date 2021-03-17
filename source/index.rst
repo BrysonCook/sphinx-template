@@ -9,7 +9,7 @@ is so popular.
    :maxdepth: 1
    :caption: Contents:
 
-   chapter1/index
+   first_page/index
    chapter2/index
    bibliography/index
    outline/index
