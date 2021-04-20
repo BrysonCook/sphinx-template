@@ -8,20 +8,25 @@ JavaScript easier. Some of the most popular of these frameworks and libraries in
 Angular, jQuery, Next.js, Meteor and the one I will be focusing on React JavaScript.
 More specifically the focus of this paper will be to look at a variety of aspects
 about React JavaScript and explain why in some situations React is the best library
-to use. I will provide an overview of the unique functionality that the React library
+to use.
+
+I will provide an overview of the unique functionality that the React library
 provides to a website and some of the short history of its creation. To end with I
 will be providing a short tutorial about how to set up JavaScript and how you can
 make your first React webpage. But first let's take a look at how React JavaScript
-started and what made it different from some of the other available libraries for JavaScript.
+started and what made it different from some of the other available libraries for
+JavaScript.
 
+.. image:: /images/ReactImage.jpg
+    :alt: The React Logo
 
 
 What is React JS
 ------------------------
 
-React JS also known as React for short was initially created by Jordan Walke, and it
-is now supported by thousands of open-source contributors and Facebook. Walke created
-React JavaScript in mid 2013 after launching a few early prototypes in 2010 and 2011 [#f1]_.
+React JS also known as React for short was initially created by Jordan Walke. It
+is now supported by Facebook and thousands of open-source contributors. Walke created
+React JavaScript in mid-2013 after launching a few early prototypes in 2010 and 2011 [#f1]_.
 In 2015 React was considered stable and was starting to be adopted by some major companies
 including Netflix and Airbnb. With these large companies supporting React it was not
 long before they gained more popularity [#f1]_. By 2016 React was gaining popularity
@@ -29,6 +34,9 @@ and was a more widely used JavaScript library by many developers. It had also ex
 include a wide variety of functionality from many open-source contributors. Now
 React is one of the most popular JavaScript library and is used throughout the world
 to create interactive user interfaces.
+
+.. image:: /images/FacebookLogo.png
+    :alt: The Facebook Logo
 
 React allows its users to build modular user interfaces and lets large complex
 web-based applications change its data without page refreshes [#f2]_. One thing
@@ -76,7 +84,8 @@ Some sample code to display how components and the React DOM work from [#f5]_
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-::
+.. code-block:: JavaScript
+    :linenos:
 
     class Car extends React.Component {
       constructor() {
@@ -190,7 +199,8 @@ An example of when to use React is when creating either a header or footer for a
 website since this section of the page is likely to stay the same between pages.
 An example of a footer from a project I worked on looked something like:
 
-::
+.. code-block:: JavaScript
+    :linenos:
 
     import React from 'react';
     import { useBreakpoint } from '../hooks/useBreakpoint';
@@ -291,9 +301,11 @@ Once we have NPM creating a react application is quite easy all you need to do i
 open the terminal, cd into the directory you want your app to be located in and
 type the following:
 
-npx create-react-app my-app
-cd my-app
-npm start
+``npx create-react-app my-app``
+
+``cd my-app``
+
+``npm start``
 
 obviously my-app can be replaced with whatever you want your application to be
 called but for the purposes of following the tutorial on the React website I just
