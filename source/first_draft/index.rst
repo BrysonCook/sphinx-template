@@ -119,6 +119,9 @@ framework, and as we know React is a JavaScript library. Despite this difference
 they are still used for almost the same purposes of building front end web applications
 using components [#f6]_.
 
+.. image:: /images/Vue.png
+    :alt: The Vue Framework Logo
+
 Vue is a framework that focuses on the View layer only but can extend its functionality
 with extra packages so that it can also work like an actual framework. Vue lets
 you create View components, and combines HTML with special directives and features,
@@ -130,6 +133,9 @@ fairly high with an estimated 1 million websites using it. As an overview of the
 complexity and learning curve according to Aris Pattakos Vue is the middle of the
 road between the three since unlike Angular there is no unique project structure to
 learn, but it is still more complex then React [#f6]_.
+
+.. image:: /images/Angular.png
+    :alt: The Angular Framework Logo
 
 In the article I found comparing these different tools they decided on comparing
 Angular 2 since it is more similar with the use of components. One major difference
@@ -261,6 +267,9 @@ interactions between components that will render without having to reload the pa
 when a user inputs something or clicks a button [#f4]_. Another advantage is that you don’t
 have to worry about the DOM when developing the applications and React will give you
 any warnings at compile time.
+
+.. image:: /images/ReactDom.png
+    :alt: A diagram of how the React DOM interacts with the real DOM.
 
 The next component of React I will discuss is props which is something that I was
 confused about for a while and still have a lot to learn about them. But in essence
