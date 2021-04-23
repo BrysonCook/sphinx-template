@@ -10,16 +10,17 @@ More specifically the focus of this paper will be to look at a variety of aspect
 about React JavaScript and explain why in some situations React is the best library
 to use.
 
+.. image:: /images/ReactImage.jpg
+    :alt: The React Logo
+    :width: 35%
+    :align: left
+
 I will provide an overview of the unique functionality that the React library
 provides to a website and some of the short history of its creation. To end with I
 will be providing a short tutorial about how to set up JavaScript and how you can
 make your first React webpage. But first let's take a look at how React JavaScript
 started and what made it different from some of the other available libraries for
 JavaScript.
-
-.. image:: /images/ReactImage.jpg
-    :alt: The React Logo
-    :width: 25%
 
 
 What is React JS
@@ -38,7 +39,8 @@ to create interactive user interfaces.
 
 .. image:: /images/FacebookLogo.png
     :alt: The Facebook Logo
-    :width: 25%
+    :width: 35%
+    :align: right
 
 React allows its users to build modular user interfaces and lets large complex
 web-based applications change its data without page refreshes [#f2]_. One thing
@@ -123,7 +125,8 @@ using components [#f6]_.
 
 .. image:: /images/Vue.png
     :alt: The Vue Framework Logo
-    :width: 25%
+    :width: 35%
+    :align: left
 
 Vue is a framework that focuses on the View layer only but can extend its functionality
 with extra packages so that it can also work like an actual framework. Vue lets
@@ -139,7 +142,8 @@ learn, but it is still more complex then React [#f6]_.
 
 .. image:: /images/Angular.png
     :alt: The Angular Framework Logo
-    :width: 25%
+    :width: 35%
+    :align: right
 
 In the article I found comparing these different tools they decided on comparing
 Angular 2 since it is more similar with the use of components. One major difference
@@ -260,6 +264,10 @@ the trouble of reading their uses again but just to summarize they are what make
 React a popular choice of library and have a wide variety of advantages especially
 when it comes to reusing code.
 
+.. image:: /images/ReactDom.png
+    :alt: A diagram of how the React DOM interacts with the real DOM.
+    :align: right
+
 The next big functionality that I had mentioned a little earlier is the React DOM
 and the differences between the virtual and real DOM. An example of how the React
 virtual DOM works with the real DOM in an application. If a user clicks a button
@@ -271,9 +279,6 @@ interactions between components that will render without having to reload the pa
 when a user inputs something or clicks a button [#f4]_. Another advantage is that you don’t
 have to worry about the DOM when developing the applications and React will give you
 any warnings at compile time.
-
-.. image:: /images/ReactDom.png
-    :alt: A diagram of how the React DOM interacts with the real DOM.
 
 The next component of React I will discuss is props which is something that I was
 confused about for a while and still have a lot to learn about them. But in essence
