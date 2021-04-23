@@ -19,6 +19,7 @@ JavaScript.
 
 .. image:: /images/ReactImage.jpg
     :alt: The React Logo
+    :scale: 25 %
 
 
 What is React JS
