@@ -19,7 +19,7 @@ JavaScript.
 
 .. image:: /images/ReactImage.jpg
     :alt: The React Logo
-    :scale: 25 %
+    :width: 25%
 
 
 What is React JS
@@ -38,6 +38,7 @@ to create interactive user interfaces.
 
 .. image:: /images/FacebookLogo.png
     :alt: The Facebook Logo
+    :width: 25%
 
 React allows its users to build modular user interfaces and lets large complex
 web-based applications change its data without page refreshes [#f2]_. One thing
@@ -122,6 +123,7 @@ using components [#f6]_.
 
 .. image:: /images/Vue.png
     :alt: The Vue Framework Logo
+    :width: 25%
 
 Vue is a framework that focuses on the View layer only but can extend its functionality
 with extra packages so that it can also work like an actual framework. Vue lets
@@ -137,6 +139,7 @@ learn, but it is still more complex then React [#f6]_.
 
 .. image:: /images/Angular.png
     :alt: The Angular Framework Logo
+    :width: 25%
 
 In the article I found comparing these different tools they decided on comparing
 Angular 2 since it is more similar with the use of components. One major difference
