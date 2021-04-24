@@ -10,7 +10,7 @@ is so popular.
    :caption: Contents:
 
    first_page/index
-   first_draft/index
+   final_paper/index
    bibliography/index
    outline/index
 
